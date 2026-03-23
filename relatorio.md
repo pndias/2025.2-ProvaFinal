@@ -1,4 +1,4 @@
-# Relatório da Atividade Avaliativa - Prova Final de Sistemas Operacionais 2025.2 - Aluno IFRN
+# Relatório da Atividade Avaliativa - Prova Final de Sistemas Operacionais 2025.2 - Pablo Dias
 
 ## Introdução
 
